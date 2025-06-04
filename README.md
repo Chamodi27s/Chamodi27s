@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chamodi Sandeepani</h1>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Chamodi27s&label=Profile%20views&color=1e90ff&style=flat" alt="Chamodi27s" />
+</p>
+
 <h3 align="center">A passionate Software Engineer | Innovative Thinker | Problem Solver | Code Enthusiast </h3>
 
 I'm a passionate Software Engineering student currently in my second year at CINEC Campus, working towards a BSc (Hons) degree.
